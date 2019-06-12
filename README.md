@@ -3,6 +3,7 @@
 Send push notifications to single device tokens and/or topics with Flutter & Firebase. 
 
 - FlutterFire
+- FCM
 - Cloud Functions
 - Firestore
 
@@ -12,7 +13,7 @@ Send push notifications to single device tokens and/or topics with Flutter & Fir
 git clone
 ```
 
-Follow the [official flutterfire setup guide](https://firebase.google.com/docs/flutter/setup) for your preferred platforms. 
+Follow the [official FlutterFire setup guide](https://firebase.google.com/docs/flutter/setup) for your preferred platforms. 
 
 ```
 flutter run
