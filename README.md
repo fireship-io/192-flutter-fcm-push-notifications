@@ -1,10 +1,9 @@
-# Base | 🐦 Flutter 🔥 Firebase
+# Episode 192 - 🐦 Flutter Push Notifications with 🔥 Firebase FCM 
 
-Foundation for Flutter/Firebase lessons.
+Send push notifications to single device tokens and/or topics with Flutter & Firebase. 
 
 - FlutterFire
-- Analytics
-- Google SignIn
+- Cloud Functions
 - Firestore
 
 ## Getting Started
