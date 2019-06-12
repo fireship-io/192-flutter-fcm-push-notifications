@@ -1,6 +1,6 @@
-# Episode 192 - 🐦 Flutter Push Notifications with 🔥 Firebase FCM 
+# Episode 192 -  Flutter Push Notifications with FCM
 
-Send push notifications to single device tokens and/or topics with Flutter & Firebase. 
+Send push notifications to single device tokens and/or topics with 🐦 Flutter & 🔥 Firebase. 
 
 - FlutterFire
 - FCM
